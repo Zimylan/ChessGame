@@ -16,7 +16,7 @@ public class Main {
         Integer[] numbers = new Integer[3];
         for (int i = 0; i < 3; i++) {
             numbers[0] = i;
-            System.out.println(numbers[i]);
+            System.out.println(numbers[i] + "HELLO");
         }
 
 
