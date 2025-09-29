@@ -1,8 +1,11 @@
 package main;
 
 public abstract class Piece {
-    Color color;
-    Coordinates coordinates;
+    public final Color color;
+    public Coordinates coordinates;
 
-
+    public Piece(Color color, Coordinates coordinates) {
+        this.color = color;
+        this.coordinates = coordinates;
+    }
 }
