@@ -1,4 +1,7 @@
-package main;
+package main.pieces;
+
+import main.Color;
+import main.Coordinates;
 
 public abstract class Piece {
     public final Color color;

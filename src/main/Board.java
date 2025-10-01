@@ -1,6 +1,7 @@
 package main;
 
 import main.pieces.Pawn;
+import main.pieces.Piece;
 
 import java.util.HashMap;
 
