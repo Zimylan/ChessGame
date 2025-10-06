@@ -11,4 +11,5 @@ public abstract class Piece {
         this.color = color;
         this.coordinates = coordinates;
     }
+
 }
